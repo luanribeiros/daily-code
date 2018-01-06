@@ -32,6 +32,7 @@ A list of site links with challenges to practice programming daily!
 - [Daily UI](http://www.dailyui.co)
 - [100DaysCss](https://100dayscss.com)
 - [100DaysFrontend](http://100daysfrontend.com)
+- [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
 
 
 ## Contributing
