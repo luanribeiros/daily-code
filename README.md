@@ -16,6 +16,7 @@ A list of site links with challenges to practice programming daily!
 - [Codewars](https://www.codewars.com)
 - [CodingBat](http://codingbat.com)
 - [CodinGame](https://www.codingame.com/start)
+- [Google Code Jam](https://code.google.com/codejam)
 
 
 ## Contributing
