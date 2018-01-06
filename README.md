@@ -10,6 +10,8 @@ A list of site links with challenges to practice programming daily!
 - [Codechef](https://www.codechef.com)
 - [CodeEval](https://www.codeeval.com)
 - [Codefights](https://codefights.com)
+- [Codeforces](http://codeforces.com)
+
 
 
 ## Contributing
