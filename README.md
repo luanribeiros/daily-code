@@ -16,7 +16,7 @@ A list of site links with challenges to practice programming daily!
 - [Codewars](https://www.codewars.com)
 - [CodingBat](http://codingbat.com)
 - [CodinGame](https://www.codingame.com/start)
-- [Hacker Earth](https://www.hackerearth.com/pt-br)
+- [Hacker Earth](https://www.hackerearth.com)
 
 
 ## Contributing
