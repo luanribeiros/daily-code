@@ -14,6 +14,7 @@ A list of site links with challenges to practice programming daily!
 - [Coderbyte](https://coderbyte.com)
 - [Coderwall](https://coderwall.com)
 - [Codewars](https://www.codewars.com)
+- [CodingBat](http://codingbat.com)
 
 
 ## Contributing
