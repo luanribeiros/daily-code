@@ -3,7 +3,7 @@
 
 A list of site links with challenges to practice programming daily!
 
-## Sites for the challenges:
+## Challenges:
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
 - [Code Avengers](https://www.codeavengers.com/codecamp)
@@ -24,6 +24,9 @@ A list of site links with challenges to practice programming daily!
 - [TopCoder](https://www.topcoder.com)
 - [URI Online Judge](https://www.urionlinejudge.com.br)
 - [Uva](https://uva.onlinejudge.org)
+
+## Challenges specific to Frontend
+
 
 ## Contributing
 
