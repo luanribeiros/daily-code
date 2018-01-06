@@ -6,6 +6,7 @@ A list of site links with challenges to practice programming daily!
 ## Sites for the challenges:
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
+- [Code Avengers](https://www.codeavengers.com/codecamp)
 
 
 ## Contributing
