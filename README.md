@@ -22,6 +22,7 @@ A list of site links with challenges to practice programming daily!
 - [Programmr](http://www.programmr.com)
 - [SPOJ](http://www.spoj.com)
 - [TopCoder](https://www.topcoder.com)
+- [URI Online Judge](https://www.urionlinejudge.com.br)
 
 
 ## Contributing
