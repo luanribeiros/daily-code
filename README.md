@@ -9,6 +9,7 @@ A list of site links with challenges to practice programming daily!
 - [Code Avengers](https://www.codeavengers.com/codecamp)
 - [Codechef](https://www.codechef.com)
 - [CodeEval](https://www.codeeval.com)
+- [Codefights](https://codefights.com)
 
 
 ## Contributing
