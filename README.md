@@ -13,6 +13,7 @@ A list of site links with challenges to practice programming daily!
 - [Codeforces](http://codeforces.com)
 - [Coderbyte](https://coderbyte.com)
 - [Coderwall](https://coderwall.com)
+- [Codewars](https://www.codewars.com)
 
 
 ## Contributing
