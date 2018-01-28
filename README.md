@@ -39,7 +39,7 @@ A list of site links with challenges to practice programming daily!
 
 Please read [CONTRIBUTING.md](https://github.com/luanribeiros/awesome-daily-programming-challenges/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
+## Author
 
 * **Luan Ribeiro** - *Initial work* - [luanribeiros](https://github.com/luanribeiros)
 
