@@ -1,7 +1,7 @@
 
 # Awesome Daily Programming Challenges
 
-:computer: :hourglass: A list of site links with challenges to practice programming daily!
+:computer: :hourglass_flowing_sand: :dart:  A list of site links with challenges to practice programming daily!
 
 ## Challenges: :dart:
 
