@@ -1,9 +1,9 @@
 
 # Awesome Daily Programming Challenges
 
-A list of site links with challenges to practice programming daily!
+:computer: :hourglass: A list of site links with challenges to practice programming daily!
 
-## Challenges:
+:dart: ## Challenges:
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
 - [Code Avengers](https://www.codeavengers.com/codecamp)
@@ -25,7 +25,7 @@ A list of site links with challenges to practice programming daily!
 - [URI Online Judge](https://www.urionlinejudge.com.br)
 - [Uva](https://uva.onlinejudge.org)
 
-## Challenges specific to Frontend
+:dart: ## Challenges specific to Frontend:
 
 - [Challenger](http://rileyjshaw.com/challenger)
 - [Daily Css Images](http://dailycssimages.com)
@@ -35,7 +35,7 @@ A list of site links with challenges to practice programming daily!
 - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
 - [JavaScript30](https://javascript30.com)
 
-## Contributing
+:heart_eyes::tada::clap: ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/luanribeiros/awesome-daily-programming-challenges/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
