@@ -5,4 +5,4 @@
 3. Make a Pull Requests.
 4. Please wait, we will review your PR.
 
-Thanks! :kissing_heart:
+Thanks! :kissing_heart::v:
