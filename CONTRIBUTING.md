@@ -1,4 +1,4 @@
-:heart_eyes::tada::clap: ## Thanks for contributing, Come on!
+## Thanks for contributing, Come on! :heart_eyes::tada::clap:
 
 1. Fork it!
 2. Update the README.md with some change.
