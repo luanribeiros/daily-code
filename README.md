@@ -25,12 +25,12 @@
 - [Livecoding.tv](https://www.liveedu.tv)
 - [Programmr](http://www.programmr.com)
 - [Project Euler](https://projecteuler.net)
-- [SPOJ](http://www.spoj.com)
-- [Timus](http://acm.timus.ru)
+- [SPOJ Online Judge](http://www.spoj.com)
+- [Timus Online Judge](http://acm.timus.ru)
 - [TopCoder](https://www.topcoder.com)
 - [UCoder](https://ucoder.com.br)
 - [URI Online Judge](https://www.urionlinejudge.com.br)
-- [Uva](https://uva.onlinejudge.org)
+- [UVa Online Judge](https://uva.onlinejudge.org)
 
 ## Challenges specific to Frontend: :dart:
 
