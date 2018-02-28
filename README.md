@@ -4,8 +4,6 @@
 
 :punch: :muscle: Improve your skills in programming and problem solving, on various types such as: Backtracking, adhoc among others. **Advance!**
 
-:computer: :hourglass_flowing_sand: :dart:  A list of site links with challenges to practice programming daily!
-
 ## Challenges: :dart:
 
 - [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu)
