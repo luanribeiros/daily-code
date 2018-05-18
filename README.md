@@ -2,7 +2,7 @@
 
 # Awesome Daily Programming Challenges
 
-:punch: :muscle: Improve your skills in programming and problem solving, on various types such as: Backtracking, adhoc among others. **Advance!**
+:punch: :muscle: **Advance!**
 
 ## Challenges: :dart:
 
