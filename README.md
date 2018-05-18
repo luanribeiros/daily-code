@@ -40,7 +40,7 @@
 - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
 - [JavaScript30](https://javascript30.com)
 
-## Contributing :heart_eyes::tada::clap:
+## Contributing 
 
 Please read [CONTRIBUTING.md](https://github.com/luanribeiros/awesome-daily-programming-challenges/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
