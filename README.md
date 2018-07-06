@@ -17,7 +17,7 @@
 - [Codewars](https://www.codewars.com)
 - [CodingBat](http://codingbat.com)
 - [CodinGame](https://www.codingame.com/start)
-- [DailyCodingProblem](https://www.dailycodingproblem.com)
+- [Daily Coding Problem](https://www.dailycodingproblem.com)
 - [Exercism](http://exercism.io)
 - [Hacker Earth](https://www.hackerearth.com)
 - [Hacker Rank](https://www.hackerrank.com)
