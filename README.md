@@ -19,6 +19,7 @@
 - [CodinGame](https://www.codingame.com/start)
 - [Daily Coding Problem](https://www.dailycodingproblem.com)
 - [Exercism](http://exercism.io)
+- [Frontend Challenges](https://github.com/LFeh/frontend-challenges)
 - [Hacker Earth](https://www.hackerearth.com)
 - [Hacker Rank](https://www.hackerrank.com)
 - [LeetCode](https://leetcode.com)
