@@ -19,7 +19,6 @@
 - [CodinGame](https://www.codingame.com/start)
 - [Daily Coding Problem](https://www.dailycodingproblem.com)
 - [Exercism](http://exercism.io)
-- [Frontend Challenges](https://github.com/LFeh/frontend-challenges)
 - [Hacker Earth](https://www.hackerearth.com)
 - [Hacker Rank](https://www.hackerrank.com)
 - [LeetCode](https://leetcode.com)
@@ -41,6 +40,7 @@
 - [100DaysCss](https://100dayscss.com)
 - [100DaysFrontend](http://100daysfrontend.com)
 - [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites)
+- [Frontend Challenges](https://github.com/LFeh/frontend-challenges)
 - [JavaScript30](https://javascript30.com)
 
 ## Contributing
