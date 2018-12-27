@@ -55,4 +55,4 @@ See also the list of [contributors](https://github.com/luanribeiros/awesome-dail
 
 ## License
 
-[MIT License](https://github.com/luanribeiros/awesome-daily-programming-challenges/blob/master/LICENSE.md) © Luan Ribeiro
+[MIT License](https://github.com/luanribeiros/awesome-daily-programming-challenges/blob/master/LICENSE.md)
